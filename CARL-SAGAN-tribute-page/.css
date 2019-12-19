@@ -1,0 +1,32 @@
+body{
+  background-color:#DDBFED;
+  text-align:center;
+}
+
+h1{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 60px;
+}
+
+h2{
+ color: #CD5C5C; 
+  font-size: 35px;
+}
+
+#image{
+  size: 360px;
+  max-width: 100%;
+  
+  height: auto;
+ }
+
+#image-caption{
+  font-family: Sans-serif;
+}
+p{
+  font-family:Helvetica;
+  font-size: 20px;
+}
+#tribute-link{
+  font-size: 15 px;
+}
